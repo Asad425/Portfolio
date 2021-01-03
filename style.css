@@ -1,0 +1,30 @@
+body{
+    font-family: 'Hanalei Fill', cursive;
+    margin: 0; padding: 0;
+}
+
+h1{
+    font-size: 60px;
+}
+
+.highlight{
+    color: orange;
+}
+p{
+    font-family: sans-serif;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    height: 400px;
+    margin-left: 270px;
+}
+.top-section{
+    background-image: url("images/top-banner.png");
+    height: 500px;
+    background-repeat: no-repeat;
+}
